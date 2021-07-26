@@ -9,7 +9,7 @@ public class Ex08 {
 
 		String n1, n2;
 		System.out.println("n1: ");
-		n1 = scan.nextLine();
+		n1 = scan.next();
 
 		System.out.println("n1: ");
 		n2 = scan.next();
